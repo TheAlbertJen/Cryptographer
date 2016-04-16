@@ -1,0 +1,265 @@
+---
+Descriptor:
+
+- Appealing:
+  Page: 64
+  Characteristics:
+    - Charismatic: +2 IP
+    - Skill: "You are trained in pleasant social interactions."
+    - Resistant to Charms: "You’re aware of how others can manipulate and charm people, and you notice when those tactics are used on you. Because of this awareness, you are trained in resisting any kind of persuasion or seduction if you wish it."
+  Description: "You’re attractive to others, but perhaps more important, you are likeable and charismatic. You’ve got that “special something” that draws others to you. You often know just the right thing to say to make someone laugh, put them at ease, or spur them to action. People like you, want to help you, and want to be your friend."
+  
+- Brash:
+  Page: 65
+  Characteristics:
+    - Energetic: +2 SP
+    - Skill: "You are trained in initiative."
+    - Bold: "You are trained in all actions that involve overcoming or ignoring the effects of fear or intimidation."
+  Description: "You’re a self-assertive sort, confident in your abilities, energetic, and perhaps a bit irreverent toward ideas that you don’t agree with. Some people call you bold and brave, but those you’ve put in their place might call you puffed up and arrogant. Whatever. It’s not in your nature to care what other people think about you, unless those people are your friends or family. Even someone as brash as you knows that friends sometimes have to come first."
+  
+- Calm:
+  Page: 66
+  Characteristics:
+    - Bookish: +2 IP
+    - Skill: "You are trained in four nonphysical skills of your choice."
+    - Trivia: "You can come up with a random fact pertinent to the current situation when you wish it. This is always a matter of fact, not conjecture or supposition, and must be something you could have logically read or seen in the past. You can do this one time, although the ability is renewed each time you make a recovery roll."
+    - Inability:
+        - "You’re just not a fighter. The difficulty of all physical attacks is increased by one step."
+        - "You’re not the outdoorsy type. The difficulty of all climbing, running, jumping, and swimming tasks is increased by one step."
+  Description: "You’ve spent most of your life in sedentary pursuits—books, movies, hobbies, and so on—rather than active ones. You’re well versed in all manner of academia or other intellectual pursuits, but nothing physical. You’re not weak or feeble, necessarily (although this is a good descriptor for characters who are elderly), but you have no experience in more physical activities."
+
+- Charming:
+  Page: 66
+  Description: |
+
+  
+- Clever:
+  Page:
+  Description: |
+
+  
+- Clumsy:
+  Page:
+  Description: |
+
+  
+- Craven:
+  Page:
+  Description: |
+
+  
+- Creative:
+  Page:
+  Description: |
+
+  
+- Cruel:
+  Page:
+  Description: |
+
+  
+- Dishonorable:
+  Page:
+  Description: |
+
+  
+- Doomed:
+  Page:
+  Description: |
+
+  
+- Driven:
+  Page:
+  Description: |
+
+  
+- Empathic:
+  Page:
+  Description: |
+
+  
+- Exiled:
+  Page:
+  Description: |
+
+  
+- Fast:
+  Page:
+  Description: |
+
+  
+- Foolish:
+  Page:
+  Description: |
+
+  
+- Graceful:
+  Page:
+  Description: |
+
+  
+- Guarded:
+  Page:
+  Description: |
+
+  
+- Hardy:
+  Page:
+  Description: |
+
+  
+- Hideous:
+  Page:
+  Description: |
+
+  
+- Honorable:
+  Page:
+  Description: |
+
+  
+- Impulsive:
+  Page:
+  Description: |
+
+  
+- Inquisitive:
+  Page:
+  Description: |
+
+  
+- Intelligent:
+  Page:
+  Description: |
+
+  
+- Jovial:
+  Page:
+  Description: |
+
+  
+- Kind:
+  Page:
+  Description: |
+
+  
+- Learned:
+  Page:
+  Description: |
+
+  
+- Lucky:
+  Page:
+  Description: |
+
+  
+- Mad:
+  Page:
+  Description: |
+
+  
+- Mechanical:
+  Page:
+  Description: |
+
+  
+- Mysterious:
+  Page:
+  Description: |
+
+  
+- Mystical:
+  Page:
+  Description: |
+
+  
+- Naive:
+  Page:
+  Description: |
+
+  
+- Noble:
+  Page:
+  Description: |
+
+  
+- Perceptive:
+  Page:
+  Description: |
+
+  
+- Resilient:
+  Page:
+  Description: |
+
+  
+- Rugged:
+  Page:
+  Description: |
+
+  
+- Sharp-Eyed:
+  Page:
+  Description: |
+
+  
+- Skeptical:
+  Page:
+  Description: |
+
+  
+- Spiritual:
+  Page:
+  Description: |
+
+  
+- Stealthy:
+  Page:
+  Description: |
+
+  
+- Strong:
+  Page:
+  Description: |
+
+  
+- Strong-Willed:
+  Page:
+  Description: |
+
+  
+- Swift:
+  Page:
+  Description: |
+
+  
+- Tongue-Tied:
+  Page:
+  Description: |
+
+  
+- Tough:
+  Page:
+  Description: |
+
+  
+- Vengeful:
+  Page:
+  Description: |
+
+  
+- Virtuous:
+  Page:
+  Description: |
+
+  
+- Wealthy:
+  Page:
+  Description: |
+
+  
+- Weird:
+  Page:
+  Description: |
+
+  
